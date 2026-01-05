@@ -1,4 +1,5 @@
-name = "skylights-Preguntas-NPS-V2"
+name = "# wrangler.toml
+name = 'skylights-preguntas-nps'"
 compatibility_date = "2026-01-05"
 [site]
 bucket = "./dist"
